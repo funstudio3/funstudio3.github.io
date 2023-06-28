@@ -1,0 +1,10 @@
+[Designing Apps for Children and Families]
+- This app is an educational app that consists entirely of the content and features of all ages available.
+
+
+[privacy policy]
+- This application requires (android. permission.READ_PHONE_STATE). We ask for this permission for the user's convenience to not show the lockscreen on the user's phone when there is a phone call.
+
+[For statistics, Analytics]
+- Like most app developers, we may collect 'non-personally-identifying information' such as theme colors, study modes, word categories, font sizes etc.
+- The purpose of collecting 'non-personally identifying information' is to better understand how users use this application.
